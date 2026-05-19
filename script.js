@@ -1,5 +1,5 @@
 const targetDate = Date.UTC(2026, 6, 11, 22, 20, 0); // Cologne → Manchester: Sat 11 Jul, 22:20
-const startDate  = Date.UTC(2026, 4, 19, 0, 0, 0); // Manchester → Cologne: Wed 19 Aug, 19:30
+const startDate  = Date.UTC(2026, 4, 19, 0, 0, 0);
 
 const progressPath = document.getElementById("progress");
 const plane = document.getElementById("plane");

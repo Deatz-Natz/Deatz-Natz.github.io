@@ -1,4 +1,4 @@
-const targetDate = Date.UTC(2026, 6, 11, 22, 20, 0); // Cologne → Manchester: Sat 11 Jul, 22:20
+const targetDate = Date.UTC(2026, 6, 11, 22, 20, 0); // epic Sat 11 Jul, 22:20
 const startDate  = Date.UTC(2026, 4, 19, 0, 0, 0);
 
 const progressPath = document.getElementById("progress");
